@@ -1,0 +1,7 @@
+#include <stdio.h> 到底干了什么？（提示：它相当于一个桥梁，把系统的输入输出库拉进来）
+#include是预处理指令
+这个本质是把系统提供的stdio.h头文件的全部文本，原样粘贴复制到写代码的这个位置
+stdio.h是什么
+standard input output，标准输入输出头文件，不存放函数真实的实现代码，只放printf()、scanf()、getchar()、puts() 等函数的函数声明（告诉编译器函数叫什么、参数是什么、返回值是什么）
+宏定义：EOF、NULL
+类型定义：FILE 文件结构体
