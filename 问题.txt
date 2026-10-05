@@ -5,3 +5,16 @@ stdio.h是什么
 standard input output，标准输入输出头文件，不存放函数真实的实现代码，只放printf()、scanf()、getchar()、puts() 等函数的函数声明（告诉编译器函数叫什么、参数是什么、返回值是什么）
 宏定义：EOF、NULL
 类型定义：FILE 文件结构体
+
+
+return 0 返回给谁了？
+是返回了一个数字0，只是这个数字不给程序内部变量用，交给操作系统拿去做判断。操作系统
+
+
+配置好你的 Git 仓库（动手不费脑）
+今天你注册了 GitHub，也在终端里配了 git config。趁着现在终端已经激活，你可以尝试把今天的成果传上去：
+cd /d/Embedded-5M
+git init
+git add .
+git commit -m "Day 0: Hello World 跑通，环境搭建完成"
+win+r>cmd>cd /d D:Embedded-5M>git init>git add .>git commit -m "写清楚本次上传内容">git push
