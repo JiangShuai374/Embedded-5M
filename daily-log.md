@@ -45,3 +45,8 @@
 3. 绝对不能在代码里出现中文标点（全角符号会引发严重错位）。
 4. 编译出来的文件名和运行的文件名必须一致。
 明日计划：for/while 循环。
+
+日期：10月7日（Day 2，顺延）
+今日完成：for/while/do-while循环，嵌套循环，Linux基础命令实操（pwd/ls/cd/mkdir/touch/rm）
+遇到的问题：编译报错 undefined reference to `WinMain'，原因是 main 函数拼写错误或没保存，改正后解决
+明日计划：switch/break，手敲控制台菜单
