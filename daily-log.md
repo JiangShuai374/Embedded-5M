@@ -50,3 +50,8 @@
 今日完成：for/while/do-while循环，嵌套循环，Linux基础命令实操（pwd/ls/cd/mkdir/touch/rm）
 遇到的问题：编译报错 undefined reference to `WinMain'，原因是 main 函数拼写错误或没保存，改正后解决
 明日计划：switch/break，手敲控制台菜单
+
+日期：10月7日（Day 3）
+今日完成：switch分支、break/continue，scanf交互式输入，手敲控制台菜单
+遇到的问题：
+明日计划：一维数组
